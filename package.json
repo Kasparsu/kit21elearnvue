@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "surge": "^0.23.1",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
